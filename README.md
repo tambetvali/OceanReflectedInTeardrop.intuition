@@ -119,3 +119,40 @@ So Laegna works:
 So I operate in local space, with a few digits of infinities rather than their precise value, and I do not think what number system it is when I calculate - somehow my own systems are neutral to conversion, and interpreter, compiler, safe type, compression or realtime calculation and calculator itself - they need to consider, what is explicit, what is implicit in this kind of oppositions, axes, and dimensionalities which all ask - whether I precisely tell my units, or I want you to go figure out but stay in this conversation until I am able to express, what is really there.
 
 You can be biologist listening to astronomer: A=>E is there, so it's what *they* accumulate so, but you yet don't know their field - maybe you generally assume about people who can explain things in their field with "A=>E", and position with some other equation about this. So they assume to explain *their* math, but with your own few example case maths, or even one, you see orders of letters which make it up, what is the actual interaction - for example 12 men in chosen, special, very uniqueness award, who do not understand anything about each other's fields, but see the same 4\*4 matrix which explains field progress about it's own matters and spirit terms or accumulations - they just see, local and global growth are there, accumulated in ecosystem and useful (R=T in 4\*4 matrix), so this is basically they understand they are 12, unique, but mentally just very same men.
+
+# Base invatiant operations
+
+## Octaves
+
+You count octaves *in each band or dimension*:
+- Base-2: in 1 dimension, octave is naturally recursive multiplication by two. This is 1st order octave, 2nd order integral functional symmetric parallel.
+- Base-4: in 2 dimensions, octave is naturally the same, but with two coordinates at the same time - resulting, in general amount, octave is multiplication by four. This is 2nd order octave, 2nd order integral functional symmetric parallel.
+- Base-8, base-16: third dimension is single bit in harmonious manner, or new dimension adds two bits, same count as existing bits, so that all relations to existing dimensions are bound: in three dimensions, octave means 2\*2\*\2 = 8, or even with base-16 normalization, 16 step expansion on each step of it's hologram.
+
+## Addition, negation, substraction, multiplication, division
+
+Each of them, even changing the sign - there are n or 2 signs for base-n, where *2 is diagonal*. 2 is often useful for simplified systems, because *how sign goes on is complex to think, needs spheres in each dimension - as more complex the dimension and as more simple your imagination of moment effort-taking, experience and training-preparation of mind and it's bodily functions, as more bound you are to utilize also trivial simplifications*.
+
+In each term:
+- Either you do them on diagonal, in curved space, which is very complex definition and naturally, can result with different Laegna solutions.
+- Either you do them with each channel / scope / sphere / octave / dimension, where this single tradable dimension has the exact nature of these groups as it's property, irrelevant to first-order math and digit functions. We do not want to explain them our whole system - we want them to calculate straight to E, and avoid some typical I states, or keep this thing in O and A scope rather than extremes in any direction (such as a cook, suddenly appearing in such luxurious state as a king or a billionaire, trying to feed the poor anyway, and with 5 nice girls at the end of this story: some elderly woman who just came to eat might be disappointed for this thing which normally happened in a music video).
+- Either you linearize the diagonal, which is other normal way.
+
+Minus and division:
+
+### Latin mode minus and division
+
+On the minus axe, they implicitly go to reverse, and it must be given explicitly.
+
+### Laegna implicit mode, standard minus and division
+
+Both sides are minus or division, and the result is that negative aspects of each number is symmetric in every frequency, which means on minus side:
+- Normally, *downwards* goes the same way as *zero* in positive, and *upwards* the same way as *infinity* in positive - latin numbers turn all this space, in every matter and even detail, into reverse in half of it's scope and detail axe-mirroring symmetries.
+- Yet, complex number irrational ordering, 1, -1, -2, 2, has been designed to make the *middle part look like loan-taking*, and this is for inverses down and reverses up - infinity direction, the same way, means investments, risks, unknowns, local sacrifice so it goes through such penalty zone before final achievement: this is the relation between both levels of long and short term, that long term goal means short term investment and balance, or it fails. It's sacrifice, achievment / penalty, award / loss, gain, estimation / outcome, neglect / flow.
+
+So in Laegna:
+- +1 - 1 actually is decimal 1 - 1, because "-" is only done for second one.
+- *1 / 1 actually makes sure the positive, multiplication-scale number gets divided by that account.
+- -1 - 1 is close to decimal system, because it can be written - zero is centrally understood.
+- /1 / 1 is laegna specific: + and - 1 pair projects to + and - zero in one octave conversion, and in this 2 times expanded dimensionality the same thing as -1 - 1 happens naturally.
+- I am currently keeping track of what's going on, but somewhat creative about how I use the operations I can do with these - automation is more precise, but also mentally you want somehow to follow the theorems about behaviours, rather than precise numbers, and "repetition of E" is often better than exactly 36 E's, to think about your thought in linear fashion - counting 36 digits *in any way* is mentally not better performing, than thinking of "repetition of E", and understanding in laegna - it has many axiomatic-tautological symmetries, directly mapping to very different theorems in very different realms, fields, scopes - but same kind of sound, some essential understanding, such as "E" mapping to *your own* good position, but *what about are good positions are understandable for your life, who wants E without actually understanding something like, quantum physics of achieving E in electric toilet water purification system*. They look at your product cover and say: well your E is somehow part of making toilet water pure, so while you are doing something with all this I can see you must be sensibly busy, if even your boss says it's a definite value E in your own scope, field, skill level.
