@@ -450,7 +450,7 @@ This allows one to interpret local reality, causal past, and future intent as **
 
 ---
 
-![Scales](Graphics/Scales.png)
+![Scales](Graphics/Scales.jpg)
 
 I provided it some more data and questions:
 
@@ -681,7 +681,7 @@ This is how systems thrive, how societies evolve, and how individuals grow — t
 
 ---
 
-![Artistic Scale](Graphics/ArtisticScale.png)
+![Artistic Scale](Graphics/ArtisticScale.jpg)
 
 I wanted it to write about my final conclusion:
 
