@@ -1,3 +1,5 @@
+![MothersDaughtersA](Graphics/MothersDaughtersA.png)
+
 # OceanReflectedInTeardrop.intuition
 This is intuitive understanding in Arts and proto-Sciences, such as Christian-Buddhist-Daoist attribution to Cosmic reflection in Self.
 
@@ -10,6 +12,8 @@ Where Laegna Logecs starts, each value and combinatorics can have acceleration a
 Say *we do not know the number system of this digital number*, which is the actual Laegna condition.
 
 AA - can be base-2, base-4, base-16 of Laegna, or special interpretation of base-8 when one does not want decimal digits because they do not use Laegna digits there. 0 and 9 can be U and V, and u and v not allowed for i, o, a, e share the same 0 and 9. 0 and 9 are *external coordinates* - outside, this progress is a key factor to resonate on upper scale, in exponential dimension, beacuse what is 1:2 pairing from upwards: your *entire* system of 4 is 1:2 paired from upwards (1, 2, 3, 4 paired with 5, 6, 7, 8), and it's own "1" is infinity, expressed by 2 - 0 and 9. Laegna cannot assume any "Linear" decimal degrees, and can account counting in this decimal representation as fractal, half-octave incremented system of Laegna correspondence as native, 0-1 True-False binary system representation of Laegna numbers as horizontal-vertical-doublemagnitudehalfdiagonal representation, which naturally follows: laegna number reflects in fractal. This representation naturally aligns binary rules in long, short and supersystem terms, conditions, causes effects and goals, asks whether it's self-resonant, and answers in self-reflective, growth-aware manner of Laegna automate which *will* detece a thermodynamic, karmic, business-like conditioning.
+
+![MothersDaughtersB](Graphics/MothersDaughtersB.png)
 
 Yin and Yang symbolism of having the "two"'s reflecting various metaphors and realities:
 - Thermodynamic system wants to measure values one against other.
@@ -44,6 +48,8 @@ Base-16:
 - A: X=3 or +1, Y=origin (1, 1)
 - I: X=1 or -2, Y=origin (1, 1)
 - E: X=4 or +2, Y=origin (1, 1)
+
+![Ocean Teardrop](Graphics/OceanTeardrop.png)
 
 The way QPOR is ordered towards it's alphabetic origin OPQR, and how OPQR projects to 1, -1, -2, 2, the growth through investment. Investment is a local sacrifice, but both overcoming the dark, or the gray, yet need some local sacrifice: investment of time, money and profession, or vice versa.
 
