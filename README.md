@@ -1,0 +1,121 @@
+# OceanReflectedInTeardrop.intuition
+This is intuitive understanding in Arts and proto-Sciences, such as Christian-Buddhist-Daoist attribution to Cosmic reflection in Self.
+
+Consider this understanding:
+- Harmonic space is resonating and dissonating, based on their material, texture, forces and disposition.
+- This is ever-lasting play of Nature, and Math.
+
+Where Laegna Logecs starts, each value and combinatorics can have acceleration and decceleration - exp and log, rather measured in dimensionality of precision and scope, where magnitudes correlate rather than sizes, and higher magnitudes have syndrome-more digits altough lower magnitudes, can express the same curvature and precision, same scope, if they use small letters - equivalent to comma or dot in latin numbers.
+
+Say *we do not know the number system of this digital number*, which is the actual Laegna condition.
+
+AA - can be base-2, base-4, base-16 of Laegna, or special interpretation of base-8 when one does not want decimal digits because they do not use Laegna digits there. 0 and 9 can be U and V, and u and v not allowed for i, o, a, e share the same 0 and 9. 0 and 9 are *external coordinates* - outside, this progress is a key factor to resonate on upper scale, in exponential dimension, beacuse what is 1:2 pairing from upwards: your *entire* system of 4 is 1:2 paired from upwards (1, 2, 3, 4 paired with 5, 6, 7, 8), and it's own "1" is infinity, expressed by 2 - 0 and 9. Laegna cannot assume any "Linear" decimal degrees, and can account counting in this decimal representation as fractal, half-octave incremented system of Laegna correspondence as native, 0-1 True-False binary system representation of Laegna numbers as horizontal-vertical-doublemagnitudehalfdiagonal representation, which naturally follows: laegna number reflects in fractal. This representation naturally aligns binary rules in long, short and supersystem terms, conditions, causes effects and goals, asks whether it's self-resonant, and answers in self-reflective, growth-aware manner of Laegna automate which *will* detece a thermodynamic, karmic, business-like conditioning.
+
+Yin and Yang symbolism of having the "two"'s reflecting various metaphors and realities:
+- Thermodynamic system wants to measure values one against other.
+
+For example time:
+- Wobbling locally.
+- Growing globally.
+- Has growth, altough locally hard to observe.
+
+For example space:
+- Wobbling locally.
+- Having infrastructures and stability of global spread.
+- Has growth, altough locally hard to observe.
+
+For example value:
+- Grows linearly.
+
+Thus, time and space mapped to R (spatial), value mapped to T (temporal), and both are seen as moving, dynamic systems - values, inertial systems, they are provide this local-global, value-meaning transistion through unknown zone to direct fit.
+
+Base-2:
+- O: 1 or -1
+- A: 2 or +1
+
+Base-4:
+- O: 2 or -1
+- A: 3 or +1
+- I: 1 or -2
+- E: 4 or +2
+
+Base-16:
+- O: X=2 or -1, Y=origin (1, 1)
+- A: X=3 or +1, Y=origin (1, 1)
+- I: X=1 or -2, Y=origin (1, 1)
+- E: X=4 or +2, Y=origin (1, 1)
+
+The way QPOR is ordered towards it's alphabetic origin OPQR, and how OPQR projects to 1, -1, -2, 2, the growth through investment. Investment is a local sacrifice, but both overcoming the dark, or the gray, yet need some local sacrifice: investment of time, money and profession, or vice versa.
+
+Base-2: 1-dimensional digit.
+Base-4: 2-dimensional digit, and base-2 is the least 1 dimension.
+Base-16: 3-dimensional digit, and base-4 is the least 2 dimensions.
+
+Least digits add least values, but having them onboard - the *digits themselves* evenly scope *every digit up*, so they exist in higher scope.
+
+Because same letters share values, and have neutral defaults for smaller system:
+- It's actually not important *to know in advance, even if you do numeric operations*, which type you will apply.
+
+# Infinity symmetrix
+
+Every digit is compatible form of it's infinity:
+- The infinitely long numbers, more than and less than infinitely long numbers, start the symmetric exploration of Laegna Number System and Nature-Compatible Real Number Representation of thermostates and tensor fields.
+
+Our mind is thermostate tensor fields:
+- It tries to ***solve***. Thermostasis: own definition of energy, a goal, a self and ego.
+- It fuzes thermostates and carries condensed meaning: tensor system inside, as approximated by AI in it's main function symmetries and *solutions*, rather than lazyness or boredom which come from lack of batteries - and come in AI as context is full and it cannot note them all up and organize, it just looks at it contextually.
+
+Physics is thermostate tensor fields:
+- Maximize energy: goal-state maximization. Thermostasis: energy, avoid loss.
+- Resolve: Tensor field is equivalent to first-order logic of advanced automation, such as AI or functional presentation of human in regards to such paradigm. It's a spiritual reflection: we gain and lose energy and cognition in way as even spirit, exists with such thermodynamic, natural activity inside - and corresponds to natural activity.
+- Materially, when goal solves in distant future, physical evolution of us also is solved, whe walk through right corridors of evolution which won't stop - free will, not evolution, it's love and how the children, just keep it up not looking back to evolutionary advantage, but studying it as central, evidential, first order topic which funnily occurs. Energy is zeroeth-order (=>proto-evolution), equilibrum is first-order (proto-evolution=>), homeostasis is second-order, transmuting through repeated equilibrae of states. We see, where energy gain is the zeroeth-order gain, reflected by physical machine, first-order gain tries to maximize goal, stabilize states (zero-thorder physics continues in actual state matter), while it's own accumulation can now be compared with overcome of evolution, just walking through evolutionary corridor already learnt, and contributing the conscious logic and indeed, defining further orders of integrals, and lower order of differentials, *whose symmetries are repeated in so many dimensions of single, linear number, continued linearly through possibilities - infinities, zeroes, log, exp, positive and negative infinity and, reflection of accumulated zero inside it*.
+
+AI is thermostate tensor fields:
+- Resolve the matrix tension, prepare in learn-mode: Goal-resolutions-stasis, evolve fast through real conditions. Thermostasis: resolve, be rewarded, avoid penalties but thrive.
+  - Original AI algorithm almost looks like evolution: it would really take long and why not, stop in linear local solution.
+  - Optimizers turn this to non-linear seek, and so might do various factors such as self-attention which would "consciously" (consciencously) accord to AI-network, user-network and external/scientific realm coherences, according to any ethical guidelines and characters, roles, games or positions. This might even be a training factor.
+- Resolve problems in the same manner: work up from what is studied, advanced goals try to resolve on basic lessons.
+
+Now we can see:
+- Spiritual terms convert 1 to 1 into IT terms through an AI:
+  - It encounters similar characteristic considerations as a spiritual girl when making up mind.
+  - "Multidimensionality", "parallel dimensions" (Hilbert math, also *very* spiritual-compatible), "higher and lower dimensions" - they make sense in this abstract, automated context of machine flow inside reflected reality. We can see a spiritual girl is talking much about *brain*, also about *modelling*, also about *subtle awareness of long-term symmetries and short-term material realities*.
+
+# Laegna numbers
+
+Now:
+- Each base is different dimension.
+
+A + B: is done in *every* dimension.
+- If it's base-2, but seen as base-4 or base-16:
+  - The defined blank dimension might do something strange with some operations, but the dimension-1 contains correct answer, and other dimensions are rather neutral - 1 is doing what it's expected to do.
+    - This happens in signed and unsigned mode, because dimension is equal symmetries, can be separated, coordinate-and-ordination-compatible, affine-translatable even by matrix or complex system.
+
+- If it's base-4, but seen as base-16 or base-2:
+  - Base-2 can still assign additional dimension.
+  - Base-16 has neutral "1" as imaginary axe, but numbers on real axe - first 2 dimensions - behave nicely.
+
+In infinity, we need exactly these symmetries:
+- Linear scale, in middle of two scales, becomes exponent scale at single moment.
+  - In each real exponent moment, whole linear scale is repeated, but as X=Y in interpolated points, it reads harmonic to it's diagonal: a single, interpolated dimension.
+
+Now we see we can extend digit scales:
+- Accents are meant to move the value to integrals and differentials digitwise, and their exact scope can be changed in any variation, even inside number is syntax is defined for something (I do not directly cover this "infinity of possibilities" with syntactic sugar in basic, first-order logic itself, altough something could count possible symbols to degree and variation, precision and rounding, and give some meaningful insights into this; domains should create their particulars).
+  - Digit moves outside digit boundary: but now, *the class syntax to this instance, and infinity syntax to single, means this is that many parts of infinitesimal so that infinitesimal in infinite means first-order one, and those distinct-scale units map to same measure*.
+    - You can still query numbers in order, give linear lists, and receive those results in linear time, so it means *you yourself can keep it a linear system without special syntax, but by adhering linear degree in Q, so does A, in linear time - inside, it's not necessarily straight order if magnitudes are so different - one number is positioned approximation digit-linear projection of octave-symmetric precision (R + 1 - 1/4 octave, in same units as octaves, or number digit count; sometimes octaves also count 1, 4, 16 or other relations such as 2, 4, 16 (lae16IH32iH) and 2, 4, 8 (decimal)), while other is real digit*.
+
+So extending those numbers which have local precision:
+- Grows dimensionality in unknown dimensions, harmonic to real dimensions.
+- Order of dimensions and their sign-symmetry is hard to left unwritten, rather their reversion is intentional, so conversions between O-A and A-O, if they contain digit overleft, the insignificant dimension left out from operations: symmetric backconversions and especially, symbolic operation which can interpolate everything over time and override the real-time float64 or int64 precisions which run fast - but all error can be recovered in each fixed point, where having the symbolic wisdom makes sense: for example does it *look* like square root of two, or *is* it square root of two.
+
+If all instances, for example, here every digit is À instead of A, you move it in octave, R scale multiplier, octave etc., and digit position is out-of-range - this is infinitesimal, but if you define all digits are out-of-range, class digit itself becomes "À"; so if set members of function points are set so - infinite set of all possibilities or all your possible values, or function whole coverage of all points in it's curve, or it's possibilities - each range is symmetric to member-class semantic syndrome.
+- But when higher scope is projected down to same visual curve, it wont remain visual: it is different dimensional density and differential 1 becomes log-like function, inverse exponent in inverse dimension if laegna "-" is used - same-directional continuation of scales and their transcends through "48" degrees (2 linexp signature shifts, of (sign polarity => next sign polarity) = 4 in laegna decimal system compatible function to as described before, in a dialect of expressing such values - an unit or metaphor because 8 numbers rather creatively, reflecting all infinite funny points, rather than linearly, locally, describe these points, such as -1, 0, 1, and relations from 1 to 2, 2 to 4 and any 1 to infinity - you can see fractal, binary, base-4, they tend to repeat the digit sequence through transcend, if unit itself must be dimension-symmetric, *non-nonsense* on other scale, even if it's initially a goal rather than resolution of linear realm - it's a goal, overcome of something which is syndrome basic already, in it's extreme degree such as 81 and 18 - opposite extremes of Laegna number system, metaphysical transcends, where 14 and 41 can rather be seen as counting than class - from class, sign symbol or archetype and metaphor, each is followed naturally, simple and useful-practical meaningful syntax for expression).
+  - Notice I use decimal system in Laegna very creatively for various purposes, but this is the distortion of:
+    - Sign-relative relations, such as linear and exponent growth, plus and minus, or superlogarithm and superlinearity in order-2 differentials, linear, octaves - which are simple models which map straight to integration-differentiation, but also to octave symmetries in way how those digits and infinities map.
+
+So Laegna works:
+- You do not know is it signed or unsigned, because polarities should be expressive, but not the dimension - logic, logecs, so you do all logecs because you assume I, O, A, E correspondencies in math, for example O, A neutral as space in given example, and I, E emotional and expressive - you do something about the distant limits of long-term accumulation, but in O-optimization simply optimizer removes and local consideration from your program, O and A: this is the space, the neutral, but important dimension, and while floating-point operator removes it in initial, real-time calculation, symbolic system adds it at checkpoints: for example, when values are numerically presented to user, or a precise, zoomable math graph expects symbolic precision update once it got it.
+
+So I operate in local space, with a few digits of infinities rather than their precise value, and I do not think what number system it is when I calculate - somehow my own systems are neutral to conversion, and interpreter, compiler, safe type, compression or realtime calculation and calculator itself - they need to consider, what is explicit, what is implicit in this kind of oppositions, axes, and dimensionalities which all ask - whether I precisely tell my units, or I want you to go figure out but stay in this conversation until I am able to express, what is really there.
+
+You can be biologist listening to astronomer: A=>E is there, so it's what *they* accumulate so, but you yet don't know their field - maybe you generally assume about people who can explain things in their field with "A=>E", and position with some other equation about this. So they assume to explain *their* math, but with your own few example case maths, or even one, you see orders of letters which make it up, what is the actual interaction - for example 12 men in chosen, special, very uniqueness award, who do not understand anything about each other's fields, but see the same 4\*4 matrix which explains field progress about it's own matters and spirit terms or accumulations - they just see, local and global growth are there, accumulated in ecosystem and useful (R=T in 4\*4 matrix), so this is basically they understand they are 12, unique, but mentally just very same men.
