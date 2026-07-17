@@ -18,6 +18,8 @@ Lets say linear degree grows from 0 to 90 degrees in block value A, and is 0 deg
 - E, contains all A if it's value is 2: 2 = 1 + 1, and if E measure already contains and overcomes A, in this measure E being 2 means it's block size is 1, because A already is 1:
   - Zone E, which is 90 to 180 degrees - and we can see 180 degrees is absolute infinity, but really a class of them because straight up can have various lengths, is then 1 unit wide.
 
+![Human Scale](Graphics/HumanScale.png)
+
 If we project this to two channels A and E: value E is actually AA, which means 1+1 where both A and E have positional value 1. Here, A and E are in separate frequential zones, and each has separate value, either entangled or free. Free value decomposes them to two-dimensional space, and naturally occurs in infinity expansion because each next point in infinity coordinate system contains whole system of coordinates of first sphere dimension:
 - Base 4 is I, O, A, E, containing A and O - adding I and E, the higher band frequency.
 - Base 2 is O and A, adding O and A to base 0, which contains nothing - this is local, material realm, with all it's finite coordinates.
@@ -67,6 +69,8 @@ This system has this advantage that each value is linearly better than value bef
 ---
 
 CoPilot direct rewrite:
+
+![Multihuman Scale](Graphics/MultiHumanScale.png)
 
 # Curvature Semantics — A Public Interpretation  
 ### Understanding I, O, A, E Through Curvature, Growth Zones, and Dimensional Bases
@@ -259,6 +263,8 @@ This creates a framework where mathematical operations reflect deeper patterns o
 
 ---
 
+![Dimensionality](Graphics/Dimensionality.png)
+
 I asked CoPilot to explain this, given the frame, can it build it up:
 
 > Can you use Laegna framework in general and discuss:
@@ -443,6 +449,8 @@ Laegna’s hologram digits and curvature semantics create a unified framework wh
 This allows one to interpret local reality, causal past, and future intent as **parallel symbolic models** with minimal conversion between them.
 
 ---
+
+![Scales](Graphics/Scales.png)
 
 I provided it some more data and questions:
 
@@ -672,6 +680,8 @@ When people see life through numeric accord:
 This is how systems thrive, how societies evolve, and how individuals grow — through the harmony of digits, curvature, and infinity.
 
 ---
+
+![Artistic Scale](Graphics/ArtisticScale.png)
 
 I wanted it to write about my final conclusion:
 
@@ -1110,3 +1120,11 @@ Civilizations thrive not because of single discoveries, doctrines, or inventions
 - **intent projection**.
 
 This is how life grows, how systems evolve, and how civilizations thrive — through the harmony of combinations, dimensions, and numeric accord.
+
+<br>
+
+![Macroscale](Graphics/Macroscale1.png)
+
+<br>
+
+![Macroscale follow-up](Graphics/Macroscale2.png)
