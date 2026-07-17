@@ -1,3 +1,5 @@
+![Digit to Field](Graphics/DigitToField.png)
+
 Let's imagine digits I, O, A, E:
 
 Signed:
