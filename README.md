@@ -1,4 +1,4 @@
-$I$ is reflected in the `O`:
+$I$ is reflected in the `O`; `A` contained in `E` - this is the standard behaviour of non-symmetric complexities of particular, example numbers - just running around and redefining the realms; Daisy has defined realm O as it's own interest area to be rather "I" than "O", this is the fractal reflection from below, from chaos and local attractors:
 
 ![NumberArts](Graphics/NumberArts.png)
 
