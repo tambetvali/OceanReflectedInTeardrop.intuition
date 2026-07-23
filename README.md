@@ -1,3 +1,9 @@
+$I$ is reflected in the `O`:
+
+![NumberArts](Graphics/NumberArts.png)
+
+<br>
+
 ![MothersDaughtersA](Graphics/MothersDaughtersA.png)
 
 # OceanReflectedInTeardrop.intuition
